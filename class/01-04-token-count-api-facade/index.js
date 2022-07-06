@@ -1,7 +1,7 @@
 console.log("안녕하세요!!")
 
 function checkValidationPhone(myphone){
-    if(myphone.length !== 10 && myphone.length !==11) {
+    if(myphone.length !== 10 && myphone.length !== 11) {
         console.log("에러 발생!!! 핸드폰 번호를 제대로 입력해 주세요!!!")
         return false
     } else {
