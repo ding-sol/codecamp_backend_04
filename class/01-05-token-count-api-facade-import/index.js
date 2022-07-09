@@ -1,6 +1,6 @@
 // const { checkValidationPhone, getToken, sendTokenToSMS } = require("./phone.js") <-- 옛날방식
 import { checkValidationPhone, getToken, sendTokenToSMS } from './phone.js'
-ㅊ
+
 console.log("안녕하세요!!")
 
 function createTokenOfPhone(myphone){

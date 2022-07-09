@@ -2,6 +2,6 @@
   "name": "01-05-token-count-api-facade-import",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
   "type": "module"
 }
